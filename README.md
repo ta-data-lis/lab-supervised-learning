@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab we will work on another supervised learning problem to predict malicious vs benign websites. We are reducing the instructions in this lab which means you will need to solve a lot of the problems by yourself. Anything new in this lab will be accompanied with detailed instructions. But for the knowledge and techniques you have used before will have brief instructions. Eventually we hope you will be able to think by yourself without instructions.
+ In this lab we will work on another supervised learning problem to predict malicious vs benign websites. We are reducing the instructions in this lab which means you will need to solve a lot of the problems by yourself. Anything new in this lab will be accompanied with detailed instructions. But for the knowledge and techniques you have used before will have brief instructions. Eventually we hope you will be able to think by yourself without instructions.
 
 ## Getting Started
 
